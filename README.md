@@ -18,7 +18,7 @@ python app.py
 
 ## Live Demo
 
-[Try it on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/prompt-analyzer)
+[Try it on Hugging Face Spaces](https://huggingface.co/spaces/ShadowWorrior/prompt-analyzer)
 
 ## License
 MIT
